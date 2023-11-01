@@ -15,10 +15,6 @@
     {
       "day": 4,
       "id": 4
-    },
-    {
-      "day": 5,
-      "id": 5
     }
   ],
   "words": [
@@ -34,21 +30,21 @@
       "day": 2,
       "eng": "car",
       "kor": "자동차",
-      "isDone": false
+      "isDone": true
     },
     {
       "id": 5,
       "day": 3,
       "eng": "school",
       "kor": "학교",
-      "isDone": false
+      "isDone": true
     },
     {
       "id": 6,
       "day": 3,
       "eng": "pencil",
       "kor": "연필",
-      "isDone": false
+      "isDone": true
     },
     {
       "day": "3",
@@ -65,13 +61,6 @@
       "id": 8
     },
     {
-      "day": "4",
-      "eng": "monkey",
-      "kor": "원숭이",
-      "isDone": false,
-      "id": 10
-    },
-    {
       "day": "3",
       "eng": "apple",
       "kor": "사과",
@@ -79,11 +68,11 @@
       "id": 12
     },
     {
-      "day": "1",
-      "eng": "hotel",
-      "kor": "호텔",
-      "isDone": false,
-      "id": 13
+      "day": "4",
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": true,
+      "id": 14
     }
   ]
 }
